@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: 6bc4fe6407e2c1b4c983bea228455bd8
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BODY_mm_badges_Mat
+    second: {fileID: 2100000, guid: f64ff31fd786db04ba7863eafaf756d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BODY_mm_chassis_Mat
+    second: {fileID: 2100000, guid: 9f09966eef637fc46bb7653b7b722a67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BODY_mm_ext_Mat
+    second: {fileID: 2100000, guid: 7a89bd0cfe228574ca805a954bebfed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BODY_mm_lights_Mat
+    second: {fileID: 2100000, guid: 8330762b10d07214396737ce0a05dca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BODY_mm_misc_Mat
+    second: {fileID: 2100000, guid: a2de42e16c75c93479eba6b872cb1d29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BOOT_mm_ext_Mat
+    second: {fileID: 2100000, guid: 753d61e4a0bc1214aa263a21a1c33831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BOOT_mm_misc_Mat
+    second: {fileID: 2100000, guid: 970da22c153d5b44389ed3b81317d0c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BRAKES_LEFT_mm_lights_Mat
+    second: {fileID: 2100000, guid: d37423fd9b331e444bc747d2661d1f4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BRAKES_RIGHT_mm_lights_Mat
+    second: {fileID: 2100000, guid: c36148c4cd7a59e4e8dd589ef70b852c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BRAKE_CALIPER_FRONT_LEFT_mm_misc_Mat
+    second: {fileID: 2100000, guid: 1ed787bc7b46eb44782ad25d450d9399, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_BRAKE_CALIPER_REAR_LEFT_mm_misc_Mat
+    second: {fileID: 2100000, guid: 5be770467ecdd5d4ea44552ec1b33970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_CHASSIS_mm_badges_Mat
+    second: {fileID: 2100000, guid: 14f006ca3cbda1a49a49bf12ebf16a05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_CHASSIS_mm_chassis_Mat
+    second: {fileID: 2100000, guid: cd5656b9efe113445b6da3785091ff37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_CHASSIS_mm_ext_Mat
+    second: {fileID: 2100000, guid: 7de55cf8c496f994493b1f8b25d9ff15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_CHASSIS_mm_lights_Mat
+    second: {fileID: 2100000, guid: e4ba41f4316d460449c50213d4aa9290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_CHASSIS_mm_misc_Mat
+    second: {fileID: 2100000, guid: c9b9cae864da0b24ab66e59abf82ce0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_DOOR_LEFT_mm_cab_Mat
+    second: {fileID: 2100000, guid: 0b30a82c11e88d744a20d563400fdd0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_DOOR_LEFT_mm_chassis_Mat
+    second: {fileID: 2100000, guid: ba5b78c036dd55b46a0248fad1b2a166, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_DOOR_LEFT_mm_ext_Mat
+    second: {fileID: 2100000, guid: 065b5a0ab030c1a4c8d4392cc4e57528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_DOOR_LEFT_mm_misc_Mat
+    second: {fileID: 2100000, guid: 0f7e2f8d8ef04af428ddf74e53aae52e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_DOOR_RIGHT_mm_cab_Mat
+    second: {fileID: 2100000, guid: 0303fa8e43ac0794ebc9209a525a4ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_DOOR_RIGHT_mm_chassis_Mat
+    second: {fileID: 2100000, guid: d67dae4615caf904fbc56719370129e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_DOOR_RIGHT_mm_ext_Mat
+    second: {fileID: 2100000, guid: 1e0700150f5c68042b7755d8249667c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_DOOR_RIGHT_mm_misc_Mat
+    second: {fileID: 2100000, guid: 33e74319c9c0c8545a17756614f568ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_EXHAUST_mm_misc_Mat
+    second: {fileID: 2100000, guid: a3c18980f0e3fa54cb6eb95af7ddd9e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_FRONTBUMPER_mm_badges_Mat
+    second: {fileID: 2100000, guid: 21aba054dbdc10047b369b38581d0cc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_FRONTBUMPER_mm_chassis_Mat
+    second: {fileID: 2100000, guid: c5ddf139994136b4e9ba6ac1c5866397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_FRONTBUMPER_mm_ext_Mat
+    second: {fileID: 2100000, guid: f607c63ff78e00f40bbbe7a1e3e8fded, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_FRONTBUMPER_mm_misc_Mat
+    second: {fileID: 2100000, guid: 418fb115f4e13a6488a4f3817089a9a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_GLASS_FRONT_mm_windows_Mat
+    second: {fileID: 2100000, guid: da8719576e0a3084fba54e0e7690b2bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_GLASS_LEFT_mm_ext_Mat
+    second: {fileID: 2100000, guid: ae68c7ce3029a1a44bb9f8fbdda4aec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_GLASS_LEFT_mm_windows_Mat
+    second: {fileID: 2100000, guid: 8aca9b828d49b724bb66ab97326f2145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_GLASS_REAR_mm_windows_Mat
+    second: {fileID: 2100000, guid: 3f1bf945f016faf40b54ff217aee35cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_GLASS_RIGHT_mm_ext_Mat
+    second: {fileID: 2100000, guid: 86a5d89ac423c8b4985ecb241e54a4de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_GLASS_RIGHT_mm_windows_Mat
+    second: {fileID: 2100000, guid: 7f1197d53c0482240b3fe316e4d77aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_HEADLIGHT_LENS_LEFT_mm_windows_Mat
+    second: {fileID: 2100000, guid: 403224230716aad4a841952df7f8a57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_HEADLIGHT_LENS_RIGHT_mm_windows_Mat
+    second: {fileID: 2100000, guid: 08b1b0b28356ab94dab0404df8e6ce93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_HOOD_mm_badges_Mat
+    second: {fileID: 2100000, guid: 348c1b3ddd1f5fa49988d28ea65939f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_HOOD_mm_ext_Mat
+    second: {fileID: 2100000, guid: cb0319a5c42122c4992751b0440e5664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_HOOD_mm_misc_Mat
+    second: {fileID: 2100000, guid: db7feb59d0b21bc49bca684381756537, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_INTERIOR_mm_cab_Mat
+    second: {fileID: 2100000, guid: b6526f8727ef0ae4b9d98b27a0ed268b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_LIT_DOOR_LEFT_mm_ext_Mat
+    second: {fileID: 2100000, guid: 0ba141bda48912c4688b1023b44ff92a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_LIT_DOOR_RIGHT_mm_ext_Mat
+    second: {fileID: 2100000, guid: 17c3a547bb80b554da79584f224bd6f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_MIRROR_GLASS_LEFT_mm_misc_Mat
+    second: {fileID: 2100000, guid: 9f4e0acdeeb105e4891dd68b26400ea1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_MIRROR_GLASS_RIGHT_mm_misc_Mat
+    second: {fileID: 2100000, guid: 59e3d007d4dc4794ab81b33b0bc7de99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_MIRROR_LEFT_mm_misc_Mat
+    second: {fileID: 2100000, guid: 4fb1449e0d7d5064980ce9984ac3e859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_MIRROR_RIGHT_mm_misc_Mat
+    second: {fileID: 2100000, guid: 7dc7622c650ddf14d94788b90554ac0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_REARBUMPER_mm_badges_Mat
+    second: {fileID: 2100000, guid: c170f12585d75ad49b976c0fdea8165c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_REARBUMPER_mm_ext_Mat
+    second: {fileID: 2100000, guid: c4258f4c147bb77468c5083165ebadd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_REARBUMPER_mm_misc_Mat
+    second: {fileID: 2100000, guid: fbef90f5725914e459dc5adabf646e78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_ROTOR_mm_rotor_Mat
+    second: {fileID: 2100000, guid: 523d0f9cca42f2744a222b4ff22b1fdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_STEERING_WHEEL_mm_cab_Mat
+    second: {fileID: 2100000, guid: 1e24ca2cdf9d3294abb0407f31e429d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_TAILLIGHT_LENS_LEFT_mm_lights_Mat
+    second: {fileID: 2100000, guid: 82551e39fc456fd42b8420e68dc91ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_TAILLIGHT_LENS_RIGHT_mm_lights_Mat
+    second: {fileID: 2100000, guid: f75de472872a55b47913d6a73273cb71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_TYRE_mm_tyre_Mat
+    second: {fileID: 2100000, guid: 66eac2053cb34de42b46e53d0d77e2fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LOD_A_WHEEL_mm_wheel_Mat
+    second: {fileID: 2100000, guid: bacb7e5960e4c8f42a9f6a3708f04884, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
