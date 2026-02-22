@@ -6,6 +6,7 @@ using UnityEngine.XR.ARSubsystems;
 
 namespace AR.Stacks
 {
+    [RequireComponent(typeof(ARRaycastManager),typeof(ARPlaneManager))]
     public class ArPlacement : MonoBehaviour
     {
         [SerializeField]
